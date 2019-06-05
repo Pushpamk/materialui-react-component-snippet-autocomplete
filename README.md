@@ -1,4 +1,4 @@
-MaterialUi-React-Component Snippet-Autocomplete [![Release](https://img.shields.io/badge/version-0.1.0-blue.svg?style=flat-square)](https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete/releases)
+MaterialUi-React-Component Snippet-Autocomplete [![Release](https://img.shields.io/badge/version-0.1.0-blue.svg?style=flat-square)](https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete/releases)
 =============
 
 ### MaterialUi-React-Component Snippet-Autocomplete Sublime Plugin
@@ -17,7 +17,7 @@ Manually:
 You can clone this repository to the Packages directory of your Sublime installation.
 
 ```bash
-git clone https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete.git
+git clone https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete.git
 ```
 ### Configuration
 
