@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<Grid item xs>
+  ${1:<Paper>Auto-Layout</Paper>}
+</Grid>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-layout:auto</tabTrigger>
+	<description> Auto Layout</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

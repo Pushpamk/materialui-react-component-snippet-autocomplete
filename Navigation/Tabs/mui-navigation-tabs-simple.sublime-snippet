@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<AppBar position="static">
+  <Tabs>
+    <Tab label="${1:Item One}" />
+    <Tab label="${2:Item Two}" />
+    <Tab label="${3:Item Three}" />
+  </Tabs>
+</AppBar>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-navigation-tabs:simple</tabTrigger>
+	<description> Simple Tab </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

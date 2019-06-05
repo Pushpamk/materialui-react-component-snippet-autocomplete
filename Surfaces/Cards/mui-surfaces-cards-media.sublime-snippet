@@ -1,0 +1,34 @@
+<snippet>
+  <content><![CDATA[
+<Card >
+  <CardActionArea>
+    <CardMedia
+      image="${1:/static/images/cards/contemplative-reptile.jpg}"
+      title="Contemplative Reptile"
+    />
+    <CardContent>
+      <Typography gutterBottom variant="h5" component="h2">
+        ${2:Lizard}
+      </Typography>
+      <Typography variant="body2" color="textSecondary" component="p">
+        ${3:Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
+                across all continents except Antarctica}
+      </Typography>
+    </CardContent>
+  </CardActionArea>
+  <CardActions>
+    <Button size="small" color="primary">
+      ${4:Share}
+    </Button>
+    <Button size="small" color="primary">
+      ${5:Learn More}
+    </Button>
+  </CardActions>
+</Card>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-surfaces-cards:media</tabTrigger>
+  <description> Card Media </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

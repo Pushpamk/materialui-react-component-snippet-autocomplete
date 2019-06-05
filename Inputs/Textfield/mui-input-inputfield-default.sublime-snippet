@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<TextField
+        label="${1:Name}"
+        margin="normal"
+      />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-input-textfield:default</tabTrigger>
+	<description> Input Text Field Default </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

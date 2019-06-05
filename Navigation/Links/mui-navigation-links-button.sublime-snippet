@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<Link
+  component="button"
+  variant="body2"
+>
+  ${1:Button Link}
+</Link>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-navigation-links:button</tabTrigger>
+	<description> Button Link </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

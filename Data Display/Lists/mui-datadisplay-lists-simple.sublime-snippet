@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+<div>
+  <List>
+    <ListItem >
+      ${1:}
+      <ListItemText primary="${2:Inbox}" />
+    </ListItem>
+    <ListItem button>
+      <ListItemIcon>
+        ${3:<DraftsIcon />}
+      </ListItemIcon>
+      <ListItemText primary="${4:Drafts}" />
+    </ListItem>
+  </List>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-datadisplay-lists:simple</tabTrigger>
+  <description> Simple Lists </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

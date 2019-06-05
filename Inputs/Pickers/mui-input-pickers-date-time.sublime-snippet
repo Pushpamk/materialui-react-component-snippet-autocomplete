@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<TextField
+	label="${1:Appointment}"
+	type="datetime-local"
+	defaultValue="${2:2017-05-24T10:30}"
+/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-input-pickers:date-time</tabTrigger>
+	<description> Date and Time Picker </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

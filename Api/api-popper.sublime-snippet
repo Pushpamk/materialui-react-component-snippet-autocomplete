@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import Popper from '@material-ui/core/Popper';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-popper</tabTrigger>
+  <description> Popper API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<TextField
+	label="${1:Birthday}"
+	type="date"
+	defaultValue="${2:2017-05-24}"
+/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-input-pickers:date</tabTrigger>
+	<description> Date Picker </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

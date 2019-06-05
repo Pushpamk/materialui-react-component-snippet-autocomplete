@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<TextField
+    label="${1:With placeholder}"
+    placeholder="${2:Placeholder}"
+    margin="normal"
+/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-input-textfield:placeholder</tabTrigger>
+	<description> Input Text Field Placeholder </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

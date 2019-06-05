@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import Portal from '@material-ui/core/Portal';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-portal</tabTrigger>
+  <description> Portal API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

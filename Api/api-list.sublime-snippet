@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import List from '@material-ui/core/List';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-list</tabTrigger>
+  <description> List API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<TextField
+    label="${1:standard-full-width}"
+    style={{ margin: 8 }}
+    placeholder="${2:Placeholder}"
+    helperText="Full width!"
+    fullWidth
+    margin="normal"
+    InputLabelProps={{
+      shrink: true,
+    }}
+/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-input-textfield:standard-full-width</tabTrigger>
+	<description> Input Text Field Standard full width </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

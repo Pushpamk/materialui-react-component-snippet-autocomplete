@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import CircularProgress from '@material-ui/core/CircularProgress';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-circularprogress</tabTrigger>
+  <description> CircularProgress API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

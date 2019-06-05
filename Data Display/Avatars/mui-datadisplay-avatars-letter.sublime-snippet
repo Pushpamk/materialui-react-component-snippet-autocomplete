@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<Avatar>${1:H}</Avatar>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-datadisplay-avatar:letter</tabTrigger>
+  <description> Letter Avatar </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

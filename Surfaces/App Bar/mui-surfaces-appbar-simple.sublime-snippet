@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<div >
+  <AppBar position="static">
+    <Toolbar>
+      <IconButton
+        edge="start"
+        color="inherit"
+        aria-label="Open drawer"
+      >
+        <MenuIcon />
+      </IconButton>
+      <Typography variant="h6" noWrap>
+        Material-UI
+      </Typography>
+    </Toolbar>
+  </AppBar>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-surfaces-appbar:simple</tabTrigger>
+	<description> Simple App Bar </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

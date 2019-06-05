@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import Hidden from '@material-ui/core/Hidden';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-hidden</tabTrigger>
+  <description> Hidden API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

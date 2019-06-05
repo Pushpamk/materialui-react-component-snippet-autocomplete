@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import Icon from '@material-ui/core/Icon';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-icon</tabTrigger>
+  <description> Icon API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,34 @@
+<snippet>
+  <content><![CDATA[
+<Card>
+  <CardContent>
+    <Typography color="textSecondary" gutterBottom>
+      ${1:Word of the Day}
+    </Typography>
+    <Typography variant="h5" component="h2">
+      ${2:be
+        {bull}
+        nev
+        {bull}o{bull}
+        lent}
+    </Typography>
+    <Typography color="textSecondary">
+      ${3:adjective}
+    </Typography>
+    <Typography variant="body2" component="p">
+      ${4:well meaning and kindly.}
+      <br />
+      ${5:{'"a benevolent smile"'}}
+    </Typography>
+  </CardContent>
+  <CardActions>
+    <Button size="small">Learn More</Button>
+  </CardActions>
+</Card>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-surfaces-cards:simple</tabTrigger>
+  <description> Simple Card </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

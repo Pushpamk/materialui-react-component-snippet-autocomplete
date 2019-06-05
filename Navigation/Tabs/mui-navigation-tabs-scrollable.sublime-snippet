@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<div >
+  <AppBar position="static" color="default">
+    <Tabs
+      indicatorColor="primary"
+      textColor="primary"
+      variant="scrollable"
+      scrollButtons="auto"
+    >
+      <Tab label="Item One" />
+      <Tab label="Item Two" />
+      <Tab label="Item Three" />
+      <Tab label="Item Four" />
+      <Tab label="Item Five" />
+      <Tab label="Item Six" />
+      <Tab label="Item Seven" />
+    </Tabs>
+  </AppBar>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-navigation-tabs:scrollable</tabTrigger>
+	<description> Scrollable Tab </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js meta.return.js</scope>
+</snippet>

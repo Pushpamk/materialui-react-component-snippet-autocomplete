@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+<Breadcrumbs separator="${1:›}" aria-label="Breadcrumb">
+  <Link color="inherit" href="${2:/}" >
+    ${3:Material-UI}
+  </Link>
+  <Link color="inherit" href="${4:/getting-started/installation/}" >
+    ${5:Core}
+  </Link>
+  <Typography color="textPrimary">${6:Breadcrumb}</Typography>
+</Breadcrumbs>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-navigation-breadcrumbs:custom</tabTrigger>
+  <description> Custom Breadcrumbs </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

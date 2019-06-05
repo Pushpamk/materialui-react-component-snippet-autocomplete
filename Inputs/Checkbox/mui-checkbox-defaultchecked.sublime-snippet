@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<Checkbox defaultChecked color="default" value="checkedG" />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-checkbox:default</tabTrigger>
+	<description> Checkbox Default Checked</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

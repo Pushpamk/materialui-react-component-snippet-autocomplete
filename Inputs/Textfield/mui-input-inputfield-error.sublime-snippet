@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<TextField
+error
+label="${1:Error}"
+defaultValue="${1:Hello World}"
+margin="normal"
+/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-input-textfield:error</tabTrigger>
+	<description> Input Text Field Error </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

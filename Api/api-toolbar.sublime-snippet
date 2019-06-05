@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import Toolbar from '@material-ui/core/Toolbar';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-toolbar</tabTrigger>
+  <description> Toolbar API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

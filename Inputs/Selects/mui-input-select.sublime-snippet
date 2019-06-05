@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<InputLabel htmlFor="age-simple">Age</InputLabel>
+<Select>
+  <MenuItem value="">
+    <em>None</em>
+  </MenuItem>
+  <MenuItem value={10}>Ten</MenuItem>
+  <MenuItem value={20}>Twenty</MenuItem>
+  <MenuItem value={30}>Thirty</MenuItem>
+</Select>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-input-select:select</tabTrigger>
+	<description> Input Select </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import Divider from '@material-ui/core/Divider';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-divider</tabTrigger>
+  <description> Divider API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

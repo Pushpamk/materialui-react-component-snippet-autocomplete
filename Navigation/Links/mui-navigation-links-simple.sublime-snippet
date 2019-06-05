@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<Link href="${1:url}" className={classes.link}>
+	${2:Link}
+</Link>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-navigation-links:simple</tabTrigger>
+	<description> Simple Link </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

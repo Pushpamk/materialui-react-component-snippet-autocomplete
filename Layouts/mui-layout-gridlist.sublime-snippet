@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<GridList cellHeight={${1:160} cols={${2:3}>
+{tileData.map(tile => (
+  <GridListTile key={tile.img} cols={tile.cols || 1}>
+    ${3:<img src={tile.img}} alt={${4:tile.title}} />
+  </GridListTile>
+))}
+</GridList>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-layout:gridlist</tabTrigger>
+	<description> Layout GridList</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

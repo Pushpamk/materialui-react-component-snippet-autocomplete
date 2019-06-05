@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<Chip
+	avatar={<Avatar alt="${1:Natacha}" src="${2:/static/images/avatar/1.jpg}" />}
+	label="${3:Deletable Chip}"
+	onDelete={${4:handleDelete}}
+/>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-datadisplay-chips:simple</tabTrigger>
+  <description> Simple chips </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

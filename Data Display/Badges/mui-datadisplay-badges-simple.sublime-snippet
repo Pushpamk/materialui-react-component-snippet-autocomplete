@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<Badge badgeContent={${1:4}} color="${2:primary}">
+    ${3:<MailIcon />}
+</Badge>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-datadisplay-badges:simple</tabTrigger>
+  <description> Simple Badges </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

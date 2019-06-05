@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<Container fixed>
+  ${1:}
+</Container>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-layout:container-fixed</tabTrigger>
+	<description> Layout Container fixed</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

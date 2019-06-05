@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import TableFooter from '@material-ui/core/TableFooter';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-tablefooter</tabTrigger>
+  <description> TableFooter API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

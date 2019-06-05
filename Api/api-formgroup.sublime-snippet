@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import FormGroup from '@material-ui/core/FormGroup';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-formgroup</tabTrigger>
+  <description> FormGroup API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

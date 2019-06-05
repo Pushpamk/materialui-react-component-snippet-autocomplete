@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<Button color="primary">
+  ${1:Primary}
+</Button>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-button-text:primary</tabTrigger>
+	<description>Primary text button </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

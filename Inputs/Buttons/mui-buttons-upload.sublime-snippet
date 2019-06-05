@@ -1,0 +1,19 @@
+<snippet>
+<content><![CDATA[
+<input
+  accept="image/*"
+  multiple
+  type="file"
+/>
+<label >
+  <Button variant="contained" component="span" >
+    ${1:Upload}
+  </Button>
+</label>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-button:upload</tabTrigger>
+	<description> Upload contained button </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

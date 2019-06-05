@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import TableBody from '@material-ui/core/TableBody';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-tablebody</tabTrigger>
+  <description> TableBody API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

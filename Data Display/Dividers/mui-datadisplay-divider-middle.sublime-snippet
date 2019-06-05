@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<Divider variant="middle" />
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-datadisplay-divider:middle</tabTrigger>
+  <description> Middle Divider </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

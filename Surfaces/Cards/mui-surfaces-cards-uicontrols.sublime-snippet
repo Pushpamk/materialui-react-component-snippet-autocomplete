@@ -1,0 +1,36 @@
+<snippet>
+  <content><![CDATA[
+<Card >
+  <div >
+    <CardContent >
+      <Typography component="h5" variant="h5">
+        ${1:Live From Space}
+      </Typography>
+      <Typography variant="subtitle1" color="textSecondary">
+        ${2:Mac Miller}
+      </Typography>
+    </CardContent>
+    <div >
+      <IconButton aria-label="Previous">
+        <SkipPreviousIcon />
+      </IconButton>
+      <IconButton aria-label="Play/pause">
+        <PlayArrowIcon  />
+      </IconButton>
+      <IconButton aria-label="Next">
+        <SkipNextIcon />
+      </IconButton>
+    </div>
+  </div>
+  <CardMedia
+    image="${3:/static/images/cards/live-from-space.jpg}"
+    title="${4:Live from space album cover}"
+  />
+</Card>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-surfaces-cards:ui controls</tabTrigger>
+  <description> Card Ui Controls </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

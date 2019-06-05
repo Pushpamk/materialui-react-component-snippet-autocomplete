@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import Paper from '@material-ui/core/Paper';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-paper</tabTrigger>
+  <description> Paper API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<Tooltip title="${1:Delete}">
+  <IconButton aria-label="Delete">
+    ${2:<DeleteIcon />}
+  </IconButton>
+</Tooltip>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-datadisplay-tooltips:tooltips</tabTrigger>
+  <description> Tooltips </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

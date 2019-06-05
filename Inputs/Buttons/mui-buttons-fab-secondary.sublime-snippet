@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<Fab color="secondary" aria-label="${1:Edit}">
+	${2:}
+</Fab>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-button-action:secondary</tabTrigger>
+	<description> Floating action button Secondary</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,23 @@
+{
+  "name": "MaterialUi React Component Snippet Autocomplete",
+  "version": "0.1.0",
+  "description": "MaterialUi React Component Snippet Autocomplete Plugin for Sublime Text 3",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete.git"
+  },
+  "keywords": [
+    "material",
+    "react",
+    "component",
+    "snippet",
+    "autocomplete"
+  ],
+  "author": "Pushpam Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete/issues"
+  },
+  "homepage": "https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete"
+}

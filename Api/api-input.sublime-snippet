@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import Input from '@material-ui/core/Input';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-input</tabTrigger>
+  <description> Input API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

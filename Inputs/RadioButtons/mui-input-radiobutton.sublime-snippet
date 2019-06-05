@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<Radio ${1:checked} color= "${2:primary}"
+/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-input-radio-button</tabTrigger>
+	<description> Radio Button </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

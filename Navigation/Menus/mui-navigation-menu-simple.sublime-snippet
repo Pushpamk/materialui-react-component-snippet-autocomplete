@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<Menu >
+	<MenuItem >${1:Profile}</MenuItem>
+	<MenuItem >${2:My account}</MenuItem>
+	<MenuItem >${3:Logout}</MenuItem>
+</Menu>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-navigation-menus:simple</tabTrigger>
+	<description> Simple Menu </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

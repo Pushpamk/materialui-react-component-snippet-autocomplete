@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<Button href="#text-buttons">
+  ${1:Link}
+</Button>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-button-text:link</tabTrigger>
+	<description>Link text button </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

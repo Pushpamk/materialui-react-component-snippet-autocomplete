@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<Divider variant="inset" />
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mui-datadisplay-divider:inset</tabTrigger>
+  <description> Inset Divider </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

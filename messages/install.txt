@@ -1,0 +1,30 @@
+Thanks for installing MaterialUi-React-Component-Snippet-Autocomplete! I hope you'll enjoy using it!
+
+Quick Start:
+~~~~~~~~~~~~
+
+To enable MaterialUi-React-Component-Snippet-Autocomplete, you need to be on a javascript view. Start typing with "api" or "mui". For more info please check "https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete"
+
+Say thanks:
+~~~~~~~~~~~
+
+Just letting me know you're enjoying this plugin is a great way to say thanks!
+
+You can do so by staring the GitHub repo, or sending a tweet (@00pushpamKum) for
+example!
+
+Troubles?
+~~~~~~~~~
+
+If you have any kind of trouble with it, just let me now by raising an issue on
+the GitHub issue tracker here:
+
+https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete/issues
+
+Tip of the day: Right click on a URL and choose 'Open <the url>' to open it in
+your default browser.
+
+Credits:
+~~~~~~~~
+
+https://github.com/math2001/MarkdownLivePreview

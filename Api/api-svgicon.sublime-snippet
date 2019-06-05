@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+import SvgIcon from '@material-ui/core/SvgIcon';
+${1:}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>api-svgicon</tabTrigger>
+  <description> SvgIcon API </description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

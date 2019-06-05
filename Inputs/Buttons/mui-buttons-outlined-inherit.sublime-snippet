@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<Button variant="outlined" color="inherit">
+	${1:Inherit}
+</Button>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-button-outlined:inherit</tabTrigger>
+	<description> Inherit outlined button </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

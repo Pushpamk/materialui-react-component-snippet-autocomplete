@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<TextField
+        id="standard-bare"
+        className={classes.textField}
+        defaultValue="Bare"
+        margin="normal"
+      />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mui-input-textfield:bare</tabTrigger>
+	<description> Input Text Field Bare </description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
