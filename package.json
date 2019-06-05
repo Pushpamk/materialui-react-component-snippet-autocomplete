@@ -5,7 +5,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete.git"
+    "url": "https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete"
   },
   "keywords": [
     "material",
@@ -17,7 +17,7 @@
   "author": "Pushpam Kumar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete/issues"
+    "url": "https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete/issues"
   },
-  "homepage": "https://github.com/Pushpamk/MaterialUi-React-Component-Snippet-Autocomplete"
+  "homepage": "https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete"
 }
