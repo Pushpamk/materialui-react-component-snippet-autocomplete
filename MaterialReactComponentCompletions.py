@@ -10,7 +10,7 @@ class MaterialReactCompletion(sublime_plugin.EventListener):
     """
     def __init__(self):
 
-        self.attribute_completions = [("%s \tM-Ui" % s, s+ '="$1"\n$2') for s in rc_attribute]
+        self.attribute_completions = [("%s \tM-Ui" % s, s+ '="$1"') for s in rc_attribute]
         self.value_completions = [("%s \tM-Ui" % s, s) for s in rc_value]
 
     def on_query_completions(self, view, prefix, locations):
