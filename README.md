@@ -9,7 +9,7 @@ Auto-complete plugin for MaterialUi Component props .
 
 With [Package Control](http://wbond.net/sublime_packages/package_control):
 
-1. Run “Package Control: Install Package” command, find and install `Emmet` plugin.
+1. Run “Package Control: Install Package” command, find and install `MaterialUi React Component Snippet Autocomplete` plugin.
 2. Restart ST editor (if required)
 
 Manually:
